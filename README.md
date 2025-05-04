@@ -1,3 +1,5 @@
+### 并没有什么有用的东西只是拿来刷commits
+
 <img align="right" src="https://count.getloli.com/get/@:DJWSJ?theme=rule34">
 
 ### Github 活跃度
