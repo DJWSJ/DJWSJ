@@ -1,6 +1,3 @@
-<div style="background-image: url('https://example.com/your-background-image.jpg'); background-size: cover; background-position: center; padding: 20px; color: white; text-align: center;">
-</div>
-
 <img align="right" src="https://count.getloli.com/get/@:DJWSJ?theme=rule34">
 
 ### 并没有什么有用的东西只是拿来刷commits
